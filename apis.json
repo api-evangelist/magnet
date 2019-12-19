@@ -1,0 +1,48 @@
+{
+    "name": "Magnet",
+    "description": "<p>Magnet&rsquo;s Enterprise Mobile Middleware solutions enable you to develop, deploy, and distribute TRUE enterprise-grade Mobile apps. Magnet Systems helps mobilize the enterprise with a scalable middleware solution that allows your team to develop, deploy and manage enterprise-grade mobile apps with the least amount of disruption. Magnet&rsquo;s extensible infrastructure enables advanced mobile workflows, accelerates time to market and drives developer productivity.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Magnet_logo-e1400516492912.png",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/magnet\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Magnet",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Magnet_logo-e1400516492912.png",
+            "humanURL": "http:\/\/www.magnet.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/magnet-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.magnet.com\/feed\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.magnet.com\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/magnet_systems"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.magnet.com\/"
+        }
+    ]
+}
